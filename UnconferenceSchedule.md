@@ -23,10 +23,10 @@ a. File formats and metadata (ZSR 667)
 
 b. Webscraping (ZSR 674)
 
-c. JSTOR Research Tools and HathiTrust Digital Library/Research Tools
+c. JSTOR Research Tools and HathiTrust Digital Library/Research Tools (ZSR 675)
 
 1:50-2:00 Break
 
-2:00-3:00 (DISC Suite)
+2:00-3:00 (ZSR 665)
 
 Individual Work Sessions
