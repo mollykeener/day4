@@ -5,5 +5,21 @@ Early Dirt Directory link: https://digitalresearchtools.pbworks.com/w/page/17801
 
 Unconference Schedule
 
-9:00-10:00 Plan Sessions (ZSR 467)
+9:00-10:00 Plan Sessions (ZSR 476)
 
+10:35-12:00 (ZSR 476)
+ZSR Databases and Search Interface: Affordances and Limitations
+Where is your data? What is the content of your dataset, what is the context of your dataset?
+Copyright (with an eye toward using, analyzing, disseminating textual data)
+
+12:00-1:00 Lunch Digital Scholarship Suite
+
+1:00-1:50 Breakout Sessions
+a. File formats and metadata (ZSR 667)
+b. Webscraping (ZSR 674)
+c. JSTOR Research Tools and HathiTrust Digital Library/Research Tools
+
+1:50-2:00 Break
+
+2:00-3:00 (DISC Suite)
+Individual Work Sessions
