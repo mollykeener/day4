@@ -12,7 +12,7 @@ ZSR Databases and Search Interface: Affordances and Limitations
 Where is your data? What is the content of your dataset, what is the context of your dataset?
 Copyright (with an eye toward using, analyzing, disseminating textual data)
 
-12:00-1:00 Lunch Digital Scholarship Suite
+12:00-1:00 Lunch (Digital Scholarship Suite)
 
 1:00-1:50 Breakout Sessions
 a. File formats and metadata (ZSR 667)
